@@ -6,8 +6,4 @@ public class AtributoBase {
 	int intelligenceBase = 8;
 	int wisdomBase = 8;
 	int charismaBase = 8;
-	public static void AtributoBase(String[] args) {
-		AtributoBase atributoBase = new AtributoBase(); 
-		
-	}
 }
